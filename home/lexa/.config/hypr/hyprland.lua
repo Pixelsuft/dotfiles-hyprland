@@ -254,7 +254,7 @@ hl.config({
         kb_options = "grp:win_space_toggle",
         kb_rules   = "",
 
-        follow_mouse = 2,
+        -- follow_mouse = 2,
 
         sensitivity = 0, -- -1.0 - 1.0, 0 means no modification.
 
